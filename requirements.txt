@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+requests
+chromadb
+bcrypt
+python-dotenv
+pydantic
+matplotlib
+seaborn
+scikit-learn
+langchain-core
+langchain-openai
+streamlit
+pillow
